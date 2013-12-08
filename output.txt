@@ -1,0 +1,210 @@
+*********************PART1************************
+1 ?- main1p1.
+% csce322a3p1 compiled 0.00 sec, 3,056 bytes
+success
+true ;
+fail
+true.
+
+2 ?- main2p1.
+% csce322a3p1 compiled 0.00 sec, 168 bytes
+fail
+true.
+
+3 ?- main3p1.
+% csce322a3p1 compiled 0.00 sec, 144 bytes
+success
+true ;
+fail
+true.
+
+4 ?- main4p1.
+% csce322a3p1 compiled 0.00 sec, 144 bytes
+success
+true ;
+fail
+true.
+
+5 ?- main5p1.
+% csce322a3p1 compiled 0.00 sec, 144 bytes
+success
+true ;
+fail
+true.
+
+1 ?- main6p1.
+% csce322a3p1 compiled 0.00 sec, 3,056 bytes
+fail
+true.
+
+2 ?- main7p1.
+% csce322a3p1 compiled 0.00 sec, 168 bytes
+fail
+true.
+
+3 ?- main8p1.
+% csce322a3p1 compiled 0.00 sec, 144 bytes
+success
+true ;
+fail
+true.
+
+4 ?- main9p1.
+% csce322a3p1 compiled 0.00 sec, 144 bytes
+success
+true ;
+fail
+true.
+
+5 ?- main10p1.
+% csce322a3p1 compiled 0.00 sec, 144 bytes
+success
+true ;
+fail
+true.
+
+
+
+
+*********************PART2************************
+1 ?- main1p2.
+% csce322a3p2 compiled 0.00 sec, 10,536 bytes
+[l]
+true ;
+fail
+true.
+
+2 ?- main2p2.
+% csce322a3p2 compiled 0.00 sec, 32 bytes
+[u,l,l,u]
+true ;
+fail
+true.
+
+3 ?- main3p2.
+% csce322a3p2 compiled 0.00 sec, 8 bytes
+[u,l,l,u]
+true ;
+[l,u,l,u]
+true ;
+[l,l,u,u]
+true ;
+fail
+true.
+
+4 ?- main4p2.
+% csce322a3p2 compiled 0.00 sec, 8 bytes
+fail
+true.
+
+5 ?- main5p2.
+% csce322a3p2 compiled 0.00 sec, 168 bytes
+success
+true ;
+fail
+true.
+
+1 ?- main6p2.
+% csce322a3p2 compiled 0.02 sec, 10,480 bytes
+[r,r,d,d,l,l]
+true ;
+fail
+true.
+
+2 ?- main7p2.
+% csce322a3p2 compiled 0.00 sec, 32 bytes
+fail
+true.
+
+3 ?- main8p2.
+% csce322a3p2 compiled 0.00 sec, 168 bytes
+fail
+true.
+
+4 ?- main9p2.
+% csce322a3p2 compiled 0.00 sec, 8 bytes
+[u,u,u,u,u,u,u]
+true ;
+fail
+true.
+
+5 ?- main10p2.
+% csce322a3p2 compiled 0.00 sec, 32 bytes
+[u,u,u,r,r,r,r,r,r,r,u,u,l,l,l,l,l,l,l,u,u,r,r,r,r,r,r,r]
+true ;
+fail
+true.
+
+
+
+
+*********************PART3************************
+1 ?- main1p3.
+% csce322a3p3 compiled 0.00 sec, 18,496 bytes
+fail
+true.
+
+2 ?- main2p3.
+% csce322a3p3 compiled 0.02 sec, 80 bytes
+fail
+true.
+
+3 ?- main3p3.
+% csce322a3p3 compiled 0.00 sec, -176 bytes
+success
+true ;
+fail
+true.
+
+4 ?- main4p3.
+% csce322a3p3 compiled 0.00 sec, -224 bytes
+f
+true ;
+g
+true ;
+u
+true ;
+w
+true ;
+6
+true ;
+fail
+true.
+
+5 ?- main5p3.
+% csce322a3p3 compiled 0.00 sec, -224 bytes
+[b,b,b,b,b,b,b]
+true ;
+fail
+true.
+
+1 ?- main6p3.
+% csce322a3p3 compiled 0.00 sec, 19,608 bytes
+w
+true ;
+fail
+true.
+
+2 ?- main7p3.
+% csce322a3p3 compiled 0.00 sec, -200 bytes
+p
+true ;
+r
+true ;
+fail
+true.
+
+3 ?- main8p3.
+% csce322a3p3 compiled 0.00 sec, -224 bytes
+fail
+true.
+
+4 ?- main9p3.
+% csce322a3p3 compiled 0.00 sec, -176 bytes
+fail
+true.
+
+5 ?- main10p3.
+% csce322a3p3 compiled 0.00 sec, -104 bytes
+fail
+true.
